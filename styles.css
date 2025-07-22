@@ -1,9 +1,13 @@
- body{
-	 background-color: rgb(100,100,190);
- }
-#pa{
-	 font-weight:900px;
+ body {
+  background-color: rgb(100, 100, 190);
+  font-family: Arial, sans-serif;
+  color: white;
 }
-p{
-	color:
+
+#pa {
+  font-weight: bold;
+}
+
+p {
+  margin-bottom: 15px;
 }
